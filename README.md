@@ -6,6 +6,10 @@
 
 I co-founded [NOETOS](https://noetos.co), where we build private, context-native AI. I own the technical side end to end: architecture, build, deployment, and the client calls. Agents write a lot of the code. I review every diff.
 
+<a href="https://rehaanajanime.vercel.app"><img alt="rehaanajanime.vercel.app, Rehaan Ajani's portfolio" src="assets/portfolio-preview.jpg" width="100%"></a>
+
+**[Portfolio: rehaanajanime.vercel.app ↗](https://rehaanajanime.vercel.app)**
+
 ### Building
 
 | Product | What it is | Where it is |
