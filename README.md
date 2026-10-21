@@ -17,15 +17,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**Socius**](https://github.com/solnikhil/Socius) · [Home suggestions show everyday help first; Connect apps stays on one line](https://github.com/solnikhil/Socius/pull/32) <sub>6 days ago</sub>
-- [**Socius**](https://github.com/solnikhil/Socius) · [Socius answers like a general assistant; runtime facts come first](https://github.com/solnikhil/Socius/pull/31) <sub>6 days ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Add application icons and electron-builder packaging config](https://github.com/rehaanajani/Dental-PMS/commit/a5bf0631178f0f9f4515474af84628dc79163b0e) <sub>3 months ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Auto-scale prescription page to fit preview viewport without clipping footer](https://github.com/rehaanajani/Dental-PMS/commit/af70745b48e57d98ff7fa46c23d28c487a107ac7) <sub>3 months ago</sub>
-- [**YellowWave**](https://github.com/rehaanajani/YellowWave) · [Force shortcut play controls to remove yellow bricks](https://github.com/rehaanajani/YellowWave/commit/86ae2920c7f5ad2102f253e4ae22cdce80d66d20) <sub>4 months ago</sub>
+- [**SUPREME**](https://github.com/rehaanajani/SUPREME) · [Add MIT licence](https://github.com/rehaanajani/SUPREME/commit/0b50150bf1160e92fae4129b77f0c5fcd77031d3) <sub>7 hours ago</sub>
+- [**PharmCheckWebsite**](https://github.com/rehaanajani/PharmCheckWebsite) · [Add MIT licence](https://github.com/rehaanajani/PharmCheckWebsite/commit/df90e68921605ab06768336857d168ee6880c345) <sub>7 hours ago</sub>
+- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Add MIT licence](https://github.com/rehaanajani/Dental-PMS/commit/36a4f25d23c8c2f903ecf9a12d44893c206e513d) <sub>7 hours ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Add MIT licence](https://github.com/rehaanajani/TradeDesk/commit/36792a7998ab24b31610ff313cd7bf2c850ad3b7) <sub>7 hours ago</sub>
+- [**onesocial**](https://github.com/rehaanajani/onesocial) · [Add MIT licence](https://github.com/rehaanajani/onesocial/commit/49c8c95bd363c68faebb2e4328e90d553d35a662) <sub>7 hours ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 21 Oct 2026, 09:39 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 21 Oct 2026, 17:12 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
