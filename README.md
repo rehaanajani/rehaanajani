@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**SUPREME**](https://github.com/rehaanajani/SUPREME) · [Add MIT licence](https://github.com/rehaanajani/SUPREME/commit/0b50150bf1160e92fae4129b77f0c5fcd77031d3) <sub>7 hours ago</sub>
-- [**PharmCheckWebsite**](https://github.com/rehaanajani/PharmCheckWebsite) · [Add MIT licence](https://github.com/rehaanajani/PharmCheckWebsite/commit/df90e68921605ab06768336857d168ee6880c345) <sub>7 hours ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Add MIT licence](https://github.com/rehaanajani/Dental-PMS/commit/36a4f25d23c8c2f903ecf9a12d44893c206e513d) <sub>7 hours ago</sub>
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Add MIT licence](https://github.com/rehaanajani/TradeDesk/commit/36792a7998ab24b31610ff313cd7bf2c850ad3b7) <sub>7 hours ago</sub>
-- [**onesocial**](https://github.com/rehaanajani/onesocial) · [Add MIT licence](https://github.com/rehaanajani/onesocial/commit/49c8c95bd363c68faebb2e4328e90d553d35a662) <sub>7 hours ago</sub>
+- [**SUPREME**](https://github.com/rehaanajani/SUPREME) · [Add MIT licence](https://github.com/rehaanajani/SUPREME/commit/0b50150bf1160e92fae4129b77f0c5fcd77031d3) <sub>12 hours ago</sub>
+- [**PharmCheckWebsite**](https://github.com/rehaanajani/PharmCheckWebsite) · [Add MIT licence](https://github.com/rehaanajani/PharmCheckWebsite/commit/df90e68921605ab06768336857d168ee6880c345) <sub>12 hours ago</sub>
+- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Add MIT licence](https://github.com/rehaanajani/Dental-PMS/commit/36a4f25d23c8c2f903ecf9a12d44893c206e513d) <sub>12 hours ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Add MIT licence](https://github.com/rehaanajani/TradeDesk/commit/36792a7998ab24b31610ff313cd7bf2c850ad3b7) <sub>12 hours ago</sub>
+- [**onesocial**](https://github.com/rehaanajani/onesocial) · [Add MIT licence](https://github.com/rehaanajani/onesocial/commit/49c8c95bd363c68faebb2e4328e90d553d35a662) <sub>12 hours ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 21 Oct 2026, 17:12 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 21 Oct 2026, 22:37 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
