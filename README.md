@@ -45,6 +45,6 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/rehaan-ajani) · [noetos.co](https://noetos.co) · [rehaanajani123@gmail.com](mailto:rehaanajani123@gmail.com)
+[Portfolio](https://rehaanajanime.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rehaan-ajani) · [noetos.co](https://noetos.co) · [rehaanajani123@gmail.com](mailto:rehaanajani123@gmail.com)
 
 <sub>Built with Claude Code. Agents write, I review every diff.</sub>
