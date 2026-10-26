@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Windows installer: call npm.cmd so PowerShell's script policy doesn't block it](https://github.com/rehaanajani/paalam/commit/1a77813197fa244ef865cc23f764d8b2d52de99a) <sub>10 hours ago</sub>
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Feature list, picker defaults per Gem, desktop server never outlives the app](https://github.com/rehaanajani/paalam/commit/5cb7e56a3968d8e18a70d6dbbdd220bec8077189) <sub>10 hours ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Mission settings for pivoting, offline tests and CI, overload fallback](https://github.com/rehaanajani/paalam/commit/2e9d5ab7192a4077d7c63b21298624d4947911f1) <sub>7 hours ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Windows installer: call npm.cmd so PowerShell's script policy doesn't block it](https://github.com/rehaanajani/paalam/commit/1a77813197fa244ef865cc23f764d8b2d52de99a) <sub>18 hours ago</sub>
 - [**SUPREME**](https://github.com/rehaanajani/SUPREME) · [Add MIT licence](https://github.com/rehaanajani/SUPREME/commit/0b50150bf1160e92fae4129b77f0c5fcd77031d3) <sub>5 days ago</sub>
 - [**PharmCheckWebsite**](https://github.com/rehaanajani/PharmCheckWebsite) · [Add MIT licence](https://github.com/rehaanajani/PharmCheckWebsite/commit/df90e68921605ab06768336857d168ee6880c345) <sub>5 days ago</sub>
 - [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Add MIT licence](https://github.com/rehaanajani/Dental-PMS/commit/36a4f25d23c8c2f903ecf9a12d44893c206e513d) <sub>5 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 26 Oct 2026, 10:10 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 26 Oct 2026, 18:23 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
