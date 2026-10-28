@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**fairshift**](https://github.com/rehaanajani/fairshift) · [Security and accessibility documentation; language completeness tests; coverage…](https://github.com/rehaanajani/fairshift/commit/3ab24d3bb7cfbdb6ce4a47443d288ea8906ac1b4) <sub>22 hours ago</sub>
-- [**fairshift**](https://github.com/rehaanajani/fairshift) · [ESLint (TypeScript + React hooks) and Prettier with zero findings; fix hook purity,…](https://github.com/rehaanajani/fairshift/commit/d1e15e7802beb1808594d765b16ff1818b78bed9) <sub>22 hours ago</sub>
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Mission settings for pivoting, offline tests and CI, overload fallback](https://github.com/rehaanajani/paalam/commit/2e9d5ab7192a4077d7c63b21298624d4947911f1) <sub>1 day ago</sub>
+- [**fairshift**](https://github.com/rehaanajani/fairshift) · [Security and accessibility documentation; language completeness tests; coverage…](https://github.com/rehaanajani/fairshift/commit/3ab24d3bb7cfbdb6ce4a47443d288ea8906ac1b4) <sub>1 day ago</sub>
+- [**fairshift**](https://github.com/rehaanajani/fairshift) · [ESLint (TypeScript + React hooks) and Prettier with zero findings; fix hook purity,…](https://github.com/rehaanajani/fairshift/commit/d1e15e7802beb1808594d765b16ff1818b78bed9) <sub>1 day ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Mission settings for pivoting, offline tests and CI, overload fallback](https://github.com/rehaanajani/paalam/commit/2e9d5ab7192a4077d7c63b21298624d4947911f1) <sub>2 days ago</sub>
 - [**paalam**](https://github.com/rehaanajani/paalam) · [Windows installer: call npm.cmd so PowerShell's script policy doesn't block it](https://github.com/rehaanajani/paalam/commit/1a77813197fa244ef865cc23f764d8b2d52de99a) <sub>2 days ago</sub>
 - [**SUPREME**](https://github.com/rehaanajani/SUPREME) · [Add MIT licence](https://github.com/rehaanajani/SUPREME/commit/0b50150bf1160e92fae4129b77f0c5fcd77031d3) <sub>7 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 28 Oct 2026, 11:04 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 28 Oct 2026, 18:15 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
