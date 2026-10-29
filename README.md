@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>8 hours ago</sub>
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Don't re-arm a one-off reminder whose time has passed](https://github.com/rehaanajani/paalam/commit/aa348aad01a01853e355d53fa346b07df0652ec4) <sub>8 hours ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Make tsc --noEmit pass and add a typecheck script](https://github.com/rehaanajani/Dental-PMS/commit/6560a656f78e30d0ab02ecf466944a4e41c5c711) <sub>8 hours ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Search for % and _ literally in patient search](https://github.com/rehaanajani/Dental-PMS/commit/c440501a6a19cdf048c4c7d5461ccd80bee137fc) <sub>8 hours ago</sub>
-- [**onesocial**](https://github.com/rehaanajani/onesocial) · [Test: cover health, validation and mock generation with node:test](https://github.com/rehaanajani/onesocial/commit/6af95bf78a9407c6f64d8828e71ffccfaf64b68d) <sub>8 hours ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>15 hours ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Don't re-arm a one-off reminder whose time has passed](https://github.com/rehaanajani/paalam/commit/aa348aad01a01853e355d53fa346b07df0652ec4) <sub>15 hours ago</sub>
+- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Make tsc --noEmit pass and add a typecheck script](https://github.com/rehaanajani/Dental-PMS/commit/6560a656f78e30d0ab02ecf466944a4e41c5c711) <sub>15 hours ago</sub>
+- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Search for % and _ literally in patient search](https://github.com/rehaanajani/Dental-PMS/commit/c440501a6a19cdf048c4c7d5461ccd80bee137fc) <sub>15 hours ago</sub>
+- [**onesocial**](https://github.com/rehaanajani/onesocial) · [Test: cover health, validation and mock generation with node:test](https://github.com/rehaanajani/onesocial/commit/6af95bf78a9407c6f64d8828e71ffccfaf64b68d) <sub>15 hours ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 29 Oct 2026, 04:01 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 29 Oct 2026, 11:12 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
