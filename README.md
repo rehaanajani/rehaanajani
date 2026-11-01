@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Make the approved courtroom render the style anchor for scenes](https://github.com/rehaanajani/nyayamitra/commit/088222114ad41a0685b6d530b6272ccf67776780) <sub>1 hour ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Place How-it-works between the doors and the why section](https://github.com/rehaanajani/nyayamitra/commit/c0ef794d3bdbf92235b639f1bbd0f586b5c7f252) <sub>1 hour ago</sub>
 - [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>3 days ago</sub>
 - [**paalam**](https://github.com/rehaanajani/paalam) · [Don't re-arm a one-off reminder whose time has passed](https://github.com/rehaanajani/paalam/commit/aa348aad01a01853e355d53fa346b07df0652ec4) <sub>3 days ago</sub>
 - [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Make tsc --noEmit pass and add a typecheck script](https://github.com/rehaanajani/Dental-PMS/commit/6560a656f78e30d0ab02ecf466944a4e41c5c711) <sub>3 days ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Search for % and _ literally in patient search](https://github.com/rehaanajani/Dental-PMS/commit/c440501a6a19cdf048c4c7d5461ccd80bee137fc) <sub>3 days ago</sub>
-- [**onesocial**](https://github.com/rehaanajani/onesocial) · [Test: cover health, validation and mock generation with node:test](https://github.com/rehaanajani/onesocial/commit/6af95bf78a9407c6f64d8828e71ffccfaf64b68d) <sub>3 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 01 Nov 2026, 11:26 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 01 Nov 2026, 18:44 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
