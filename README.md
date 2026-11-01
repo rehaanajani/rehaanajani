@@ -29,7 +29,7 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 01 Nov 2026, 02:59 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 01 Nov 2026, 11:26 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
