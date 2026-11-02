@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Rebuild Sahay as one locked screen with the mic ring and the path in a sheet](https://github.com/rehaanajani/nyayamitra/commit/ffb77d23f60c0a796d9027a61c22c73e0e2d71d3) <sub>1 hour ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Open the courtroom mic only on your turn and say whose turn it is](https://github.com/rehaanajani/nyayamitra/commit/8cc83c62d49a87d029499b9082b171693995495d) <sub>1 hour ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Rebuild Sahay as one locked screen with the mic ring and the path in a sheet](https://github.com/rehaanajani/nyayamitra/commit/ffb77d23f60c0a796d9027a61c22c73e0e2d71d3) <sub>8 hours ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Open the courtroom mic only on your turn and say whose turn it is](https://github.com/rehaanajani/nyayamitra/commit/8cc83c62d49a87d029499b9082b171693995495d) <sub>8 hours ago</sub>
 - [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>4 days ago</sub>
 - [**paalam**](https://github.com/rehaanajani/paalam) · [Don't re-arm a one-off reminder whose time has passed](https://github.com/rehaanajani/paalam/commit/aa348aad01a01853e355d53fa346b07df0652ec4) <sub>4 days ago</sub>
 - [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Make tsc --noEmit pass and add a typecheck script](https://github.com/rehaanajani/Dental-PMS/commit/6560a656f78e30d0ab02ecf466944a4e41c5c711) <sub>4 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 02 Nov 2026, 03:28 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 02 Nov 2026, 11:26 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
