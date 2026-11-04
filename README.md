@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Add screenshots of every tab to the README](https://github.com/rehaanajani/TradeDesk/commit/a09f4843a3494d7bfb7468d61979e1c8e2c7c4ca) <sub>19 hours ago</sub>
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Make the interface minimal: light only, black on white, colour just for price moves](https://github.com/rehaanajani/TradeDesk/commit/fc0e16eecc23743709941a4a37a383a3de886c6d) <sub>19 hours ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Add screenshots of every tab to the README](https://github.com/rehaanajani/TradeDesk/commit/a09f4843a3494d7bfb7468d61979e1c8e2c7c4ca) <sub>1 day ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Make the interface minimal: light only, black on white, colour just for price moves](https://github.com/rehaanajani/TradeDesk/commit/fc0e16eecc23743709941a4a37a383a3de886c6d) <sub>1 day ago</sub>
 - [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Put Sheru, the name and both builders on the thumbnail](https://github.com/rehaanajani/nyayamitra/commit/39412d699f3d11d3fcaf701fed0bbd24f077ff74) <sub>1 day ago</sub>
 - [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Let the recording rig write outside the film's folder](https://github.com/rehaanajani/nyayamitra/commit/176be60c7e1ea0628e5c40c1a70620a1a21532df) <sub>1 day ago</sub>
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>6 days ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>7 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 04 Nov 2026, 11:39 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 04 Nov 2026, 19:55 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
