@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Add screenshots of every tab to the README](https://github.com/rehaanajani/TradeDesk/commit/a09f4843a3494d7bfb7468d61979e1c8e2c7c4ca) <sub>7 days ago</sub>
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Make the interface minimal: light only, black on white, colour just for price moves](https://github.com/rehaanajani/TradeDesk/commit/fc0e16eecc23743709941a4a37a383a3de886c6d) <sub>7 days ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Put Sheru, the name and both builders on the thumbnail](https://github.com/rehaanajani/nyayamitra/commit/39412d699f3d11d3fcaf701fed0bbd24f077ff74) <sub>7 days ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Let the recording rig write outside the film's folder](https://github.com/rehaanajani/nyayamitra/commit/176be60c7e1ea0628e5c40c1a70620a1a21532df) <sub>7 days ago</sub>
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Test: cover reminder time validation, defaults and re-arming](https://github.com/rehaanajani/paalam/commit/f252630f72d93fdd4b3b800740ec1710b7fd2748) <sub>13 days ago</sub>
+- [**Sentinel-Shield**](https://github.com/rehaanajani/Sentinel-Shield) · [Upgraded requests to 2.32.4 for security fixes](https://github.com/rehaanajani/Sentinel-Shield/commit/3fbadd23e92207322a5983441d5557b9a1c02ab4) <sub>1 hour ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Declared the MIT licence in the web package](https://github.com/rehaanajani/nyayamitra/commit/eaacab80429728ecba4b7109549428a8821650eb) <sub>1 hour ago</sub>
+- [**fairshift**](https://github.com/rehaanajani/fairshift) · [Added the repository field to package.json](https://github.com/rehaanajani/fairshift/commit/4facbb80cfa8f83b6c3c1cfb4e240e98617ac27a) <sub>1 hour ago</sub>
+- [**paalam**](https://github.com/rehaanajani/paalam) · [Added the repository field to package.json](https://github.com/rehaanajani/paalam/commit/4101ca50d689c223bc555612bc4f4fe4f93d5232) <sub>1 hour ago</sub>
+- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Declared the MIT licence in package.json](https://github.com/rehaanajani/Dental-PMS/commit/57bdc03b5f88b0669804b69170851a2ea9d7abb1) <sub>1 hour ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 10 Nov 2026, 20:18 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 11 Nov 2026, 04:45 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
