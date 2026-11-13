@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
+- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>1 hour ago</sub>
+- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Pointed the README simulator links to GitHub Pages](https://github.com/rehaanajani/8086-bubble-sort/commit/3235faa59aecee2d742450c6720f8223d591c53c) <sub>1 hour ago</sub>
 - [**Sentinel-Shield**](https://github.com/rehaanajani/Sentinel-Shield) · [Upgraded requests to 2.32.4 for security fixes](https://github.com/rehaanajani/Sentinel-Shield/commit/3fbadd23e92207322a5983441d5557b9a1c02ab4) <sub>2 days ago</sub>
 - [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Declared the MIT licence in the web package](https://github.com/rehaanajani/nyayamitra/commit/eaacab80429728ecba4b7109549428a8821650eb) <sub>2 days ago</sub>
 - [**fairshift**](https://github.com/rehaanajani/fairshift) · [Added the repository field to package.json](https://github.com/rehaanajani/fairshift/commit/4facbb80cfa8f83b6c3c1cfb4e240e98617ac27a) <sub>2 days ago</sub>
-- [**paalam**](https://github.com/rehaanajani/paalam) · [Added the repository field to package.json](https://github.com/rehaanajani/paalam/commit/4101ca50d689c223bc555612bc4f4fe4f93d5232) <sub>2 days ago</sub>
-- [**Dental-PMS**](https://github.com/rehaanajani/Dental-PMS) · [Declared the MIT licence in package.json](https://github.com/rehaanajani/Dental-PMS/commit/57bdc03b5f88b0669804b69170851a2ea9d7abb1) <sub>2 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 13 Nov 2026, 12:05 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 14 Nov 2026, 01:07 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
