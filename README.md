@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Update tradedesk.py](https://github.com/rehaanajani/TradeDesk/commit/ec75e3b16225a27f76151b434079217e3607273f) <sub>1 hour ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Told the case builder which court hears which kind of matter](https://github.com/rehaanajani/nyayamitra/commit/9803603ace67436d36954876f6a08130b6a1e088) <sub>7 hours ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Kept recent voice clips in memory so repeated lines play at once](https://github.com/rehaanajani/nyayamitra/commit/cfd921a88ec60920bb9e6800f6a87e72e0b33304) <sub>8 hours ago</sub>
-- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>2 days ago</sub>
-- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Pointed the README simulator links to GitHub Pages](https://github.com/rehaanajani/8086-bubble-sort/commit/3235faa59aecee2d742450c6720f8223d591c53c) <sub>2 days ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>4 hours ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added the Trade Coach order review, Indian charges and the Insights tab](https://github.com/rehaanajani/TradeDesk/commit/7bd47a35e5220cb51c6cbb402062175ef2cfdc32) <sub>5 hours ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Told the case builder which court hears which kind of matter](https://github.com/rehaanajani/nyayamitra/commit/9803603ace67436d36954876f6a08130b6a1e088) <sub>23 hours ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Kept recent voice clips in memory so repeated lines play at once](https://github.com/rehaanajani/nyayamitra/commit/cfd921a88ec60920bb9e6800f6a87e72e0b33304) <sub>23 hours ago</sub>
+- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>3 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 16 Nov 2026, 11:49 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 17 Nov 2026, 03:27 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
