@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>1 day ago</sub>
-- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Pointed the README simulator links to GitHub Pages](https://github.com/rehaanajani/8086-bubble-sort/commit/3235faa59aecee2d742450c6720f8223d591c53c) <sub>1 day ago</sub>
-- [**Sentinel-Shield**](https://github.com/rehaanajani/Sentinel-Shield) · [Upgraded requests to 2.32.4 for security fixes](https://github.com/rehaanajani/Sentinel-Shield/commit/3fbadd23e92207322a5983441d5557b9a1c02ab4) <sub>4 days ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Declared the MIT licence in the web package](https://github.com/rehaanajani/nyayamitra/commit/eaacab80429728ecba4b7109549428a8821650eb) <sub>4 days ago</sub>
-- [**fairshift**](https://github.com/rehaanajani/fairshift) · [Added the repository field to package.json](https://github.com/rehaanajani/fairshift/commit/4facbb80cfa8f83b6c3c1cfb4e240e98617ac27a) <sub>4 days ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Update tradedesk.py](https://github.com/rehaanajani/TradeDesk/commit/ec75e3b16225a27f76151b434079217e3607273f) <sub>1 hour ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Told the case builder which court hears which kind of matter](https://github.com/rehaanajani/nyayamitra/commit/9803603ace67436d36954876f6a08130b6a1e088) <sub>7 hours ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Kept recent voice clips in memory so repeated lines play at once](https://github.com/rehaanajani/nyayamitra/commit/cfd921a88ec60920bb9e6800f6a87e72e0b33304) <sub>8 hours ago</sub>
+- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>2 days ago</sub>
+- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Pointed the README simulator links to GitHub Pages](https://github.com/rehaanajani/8086-bubble-sort/commit/3235faa59aecee2d742450c6720f8223d591c53c) <sub>2 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 16 Nov 2026, 00:17 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 16 Nov 2026, 11:49 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
