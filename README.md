@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Sent Prisma v2.5 a single language, as it requires](https://github.com/rehaanajani/nyayamitra/commit/bc0ffa2d2895e3a569b0d3c543ed7fb7567e1e30) <sub>2 hours ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Fell back to Prisma v2.5 when v3.0 answers with a server error too](https://github.com/rehaanajani/nyayamitra/commit/6f5719d1b6f53bf48229da279f0f5e7d5ef8b334) <sub>2 hours ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Sent Prisma v2.5 a single language, as it requires](https://github.com/rehaanajani/nyayamitra/commit/bc0ffa2d2895e3a569b0d3c543ed7fb7567e1e30) <sub>13 hours ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Fell back to Prisma v2.5 when v3.0 answers with a server error too](https://github.com/rehaanajani/nyayamitra/commit/6f5719d1b6f53bf48229da279f0f5e7d5ef8b334) <sub>13 hours ago</sub>
 - [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>3 days ago</sub>
 - [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added the Trade Coach order review, Indian charges and the Insights tab](https://github.com/rehaanajani/TradeDesk/commit/7bd47a35e5220cb51c6cbb402062175ef2cfdc32) <sub>3 days ago</sub>
 - [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>6 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 20 Nov 2026, 01:59 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 20 Nov 2026, 12:36 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
