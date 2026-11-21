@@ -21,7 +21,7 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Fell back to the browser's speech recogniser when Prisma fails to transcribe](https://github.com/rehaanajani/nyayamitra/commit/ccf214b1b615fcd6448fe76995c57c0087fafeb2) <sub>1 hour ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Fell back to the browser's speech recogniser when Prisma fails to transcribe](https://github.com/rehaanajani/nyayamitra/commit/ccf214b1b615fcd6448fe76995c57c0087fafeb2) <sub>11 hours ago</sub>
 - [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Sent Prisma v2.5 a single language, as it requires](https://github.com/rehaanajani/nyayamitra/commit/bc0ffa2d2895e3a569b0d3c543ed7fb7567e1e30) <sub>1 day ago</sub>
 - [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>4 days ago</sub>
 - [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added the Trade Coach order review, Indian charges and the Insights tab](https://github.com/rehaanajani/TradeDesk/commit/7bd47a35e5220cb51c6cbb402062175ef2cfdc32) <sub>4 days ago</sub>
@@ -29,7 +29,7 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 21 Nov 2026, 01:37 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 21 Nov 2026, 12:29 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
