@@ -23,13 +23,13 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 <!-- shipped:start -->
 - [**pathfinder-xr**](https://github.com/rehaanajani/pathfinder-xr) · [Final submission: robustness fixes, final numbers, and the 길잡이 (Giljabi) name](https://github.com/rehaanajani/pathfinder-xr/pull/66) <sub>3 days ago</sub>
 - [**pathfinder-xr**](https://github.com/rehaanajani/pathfinder-xr) · [Removed the results note that sat under the film's subtitle, and re-rendered the film](https://github.com/rehaanajani/pathfinder-xr/commit/01a197e306fd42ed474106fa752835dc10667d1d) <sub>3 days ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Fell back to the browser's speech recogniser when Prisma fails to transcribe](https://github.com/rehaanajani/nyayamitra/commit/ccf214b1b615fcd6448fe76995c57c0087fafeb2) <sub>3 days ago</sub>
-- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Sent Prisma v2.5 a single language, as it requires](https://github.com/rehaanajani/nyayamitra/commit/bc0ffa2d2895e3a569b0d3c543ed7fb7567e1e30) <sub>4 days ago</sub>
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>7 days ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Fell back to the browser's speech recogniser when Prisma fails to transcribe](https://github.com/rehaanajani/nyayamitra/commit/ccf214b1b615fcd6448fe76995c57c0087fafeb2) <sub>4 days ago</sub>
+- [**nyayamitra**](https://github.com/rehaanajani/nyayamitra) · [Sent Prisma v2.5 a single language, as it requires](https://github.com/rehaanajani/nyayamitra/commit/bc0ffa2d2895e3a569b0d3c543ed7fb7567e1e30) <sub>5 days ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>8 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 24 Nov 2026, 15:18 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 25 Nov 2026, 03:51 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
