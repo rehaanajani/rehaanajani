@@ -21,15 +21,15 @@ I co-founded [NOETOS](https://noetos.co), where we build private, context-native
 ### Recently shipped
 
 <!-- shipped:start -->
-- [**pathfinder-xr**](https://github.com/rehaanajani/pathfinder-xr) · [Final submission: robustness fixes, final numbers, and the 길잡이 (Giljabi) name](https://github.com/rehaanajani/pathfinder-xr/pull/66) <sub>5 days ago</sub>
-- [**pathfinder-xr**](https://github.com/rehaanajani/pathfinder-xr) · [Removed the results note that sat under the film's subtitle, and re-rendered the film](https://github.com/rehaanajani/pathfinder-xr/commit/01a197e306fd42ed474106fa752835dc10667d1d) <sub>5 days ago</sub>
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>10 days ago</sub>
-- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added the Trade Coach order review, Indian charges and the Insights tab](https://github.com/rehaanajani/TradeDesk/commit/7bd47a35e5220cb51c6cbb402062175ef2cfdc32) <sub>10 days ago</sub>
-- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>13 days ago</sub>
+- [**pathfinder-xr**](https://github.com/rehaanajani/pathfinder-xr) · [Final submission: robustness fixes, final numbers, and the 길잡이 (Giljabi) name](https://github.com/rehaanajani/pathfinder-xr/pull/66) <sub>6 days ago</sub>
+- [**pathfinder-xr**](https://github.com/rehaanajani/pathfinder-xr) · [Removed the results note that sat under the film's subtitle, and re-rendered the film](https://github.com/rehaanajani/pathfinder-xr/commit/01a197e306fd42ed474106fa752835dc10667d1d) <sub>6 days ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added a hover crosshair to the chart and switched back to the normal cursor](https://github.com/rehaanajani/TradeDesk/commit/cb3e283cbe424725ce61d50c1c3262d1201dfd01) <sub>11 days ago</sub>
+- [**TradeDesk**](https://github.com/rehaanajani/TradeDesk) · [Added the Trade Coach order review, Indian charges and the Insights tab](https://github.com/rehaanajani/TradeDesk/commit/7bd47a35e5220cb51c6cbb402062175ef2cfdc32) <sub>11 days ago</sub>
+- [**8086-bubble-sort**](https://github.com/rehaanajani/8086-bubble-sort) · [Served the simulator at the Vercel root](https://github.com/rehaanajani/8086-bubble-sort/commit/ae9c2c358465c3a117bb30ad706fd32b72039dc4) <sub>14 days ago</sub>
 <!-- shipped:end -->
 
 <!-- updated:start -->
-<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 27 Nov 2026, 13:49 IST</sub>
+<sub>Pulled from merged pull requests and commits on public repos. Refreshed every six hours · last run 28 Nov 2026, 02:40 IST</sub>
 <!-- updated:end -->
 
 ### Selected work
